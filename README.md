@@ -6,6 +6,8 @@
 
 ![Reeder3](/pic/Reeder3.png)
 
+同样推荐 feedy, 一款简单功能齐全的rss订阅软件。
+
 ======
 
 # 技术博客
